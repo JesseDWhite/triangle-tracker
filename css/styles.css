@@ -1,0 +1,19 @@
+.form-entry {
+    padding: 20px;
+}
+.output-triangle {
+    font-size: 35px;
+}
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: #90A4AE;
+}
+h2 {
+    margin: 20px;
+    text-decoration: underline;
+}
+label {
+    font-size: 25px;
+    color: #616161;
+}
